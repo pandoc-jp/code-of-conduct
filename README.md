@@ -1,6 +1,6 @@
 # 日本Pandocユーザ会の行動規範
 
-[日本Pandocユーザ会のの行動規範](https://github.com/pandoc-jp/code-of-conduct/blob/main/CODE_OF_CONDUCT)
+[日本Pandocユーザ会の行動規範](https://github.com/pandoc-jp/code-of-conduct/blob/main/CODE_OF_CONDUCT)
 
 ## 注意
 
